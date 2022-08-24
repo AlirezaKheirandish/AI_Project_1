@@ -6,3 +6,5 @@ At the first, we extracted features from EEG signals, and then by applying a sim
 
 And another network we trained was the RBF network and we reach 75% accuracy on the test data either.
 
+It is necessary to mention that the test data contains only 40 people and the main challenge in this problem was the lack of sufficient data. For example, even the amount of data was increased by combining real data. The main goal was how we can handle these problems and train a good network.
+
